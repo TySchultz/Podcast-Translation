@@ -1,0 +1,1523 @@
+{
+  "translated_segments": [
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 5.88,
+      "speaker": "SPEAKER_00",
+      "start": 0,
+      "text": "Muy bien, ¡asegúrense todos! Hoy nos sumergiremos profundamente en el mundo de Unispan USA."
+    },
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 7.34,
+      "speaker": "SPEAKER_01",
+      "start": 6.36,
+      "text": "Unispan EE. UU."
+    },
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 16.26,
+      "speaker": "SPEAKER_00",
+      "start": 7.76,
+      "text": "Lo tienes. Ellos se especializan en encofrados y sistemas de apuntalamiento para la construcción. Ya sabes, lo que sostiene el concreto húmedo en su lugar hasta que se endurece."
+    },
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 19.66,
+      "speaker": "SPEAKER_01",
+      "start": 16.34,
+      "text": "Ah, claro, como cuando están construyendo esos enormes soportes de puentes o rascacielos."
+    },
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 23.82,
+      "speaker": "SPEAKER_00",
+      "start": 19.82,
+      "text": "Exactamente. Piénsalo como un molde gigante para concreto, solo que es temporal."
+    },
+    {
+      "avg_logprob": -0.13828125099341074,
+      "end": 26.34,
+      "speaker": "SPEAKER_01",
+      "start": 24.18,
+      "text": "Así que como un enorme molde de pastel de concreto."
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 35.26,
+      "speaker": "SPEAKER_00",
+      "start": 26.34,
+      "text": "Prácticamente. Y tenemos un montón de información del sitio web de Unispan para explorar su página sobre, detalles sobre sus sistemas de encofrado y apuntalamiento, e incluso accesorios."
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 36.3,
+      "speaker": "SPEAKER_01",
+      "start": 35.64,
+      "text": "Suena completo."
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 43.28,
+      "speaker": "SPEAKER_00",
+      "start": 36.72,
+      "text": "Sí. Y nuestro objetivo es ayudarte a entender de qué se trata Unispan USA. ¿Qué es lo que realmente hacen?"
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 44.5,
+      "speaker": "SPEAKER_01",
+      "start": 43.48,
+      "text": "Claro, ¿qué los hace únicos?"
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 51.72,
+      "speaker": "SPEAKER_00",
+      "start": 44.74,
+      "text": "Sí. Y tal vez, solo tal vez, despertemos algo de curiosidad sobre todo este mundo detrás de cámaras de la tecnología de la construcción."
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 53.26,
+      "speaker": "SPEAKER_01",
+      "start": 51.82,
+      "text": "Es bastante fascinante cuando lo piensas."
+    },
+    {
+      "avg_logprob": -0.08153973875061565,
+      "end": 62.94,
+      "speaker": "SPEAKER_00",
+      "start": 53.32,
+      "text": "Totalmente. De acuerdo, así que desde el principio, Unispan quiere ser la fuente principal para encofrados y apuntalamiento en América del Norte. Están vendiendo estos sistemas, pero también los alquilan, lo cual es bastante genial."
+    },
+    {
+      "avg_logprob": -0.15090460379264856,
+      "end": 64.3,
+      "speaker": "SPEAKER_01",
+      "start": 63.08,
+      "text": "Como una tienda de una sola parada."
+    },
+    {
+      "avg_logprob": -0.15090460379264856,
+      "end": 73.94,
+      "speaker": "SPEAKER_00",
+      "start": 64.56,
+      "text": "Exactamente. Pero aquí está lo que me parece interesante. Hablan mucho sobre el servicio al cliente y la construcción de relaciones a largo plazo. No se trata solo de hacer una venta rápida. Quieren ser socios de sus clientes."
+    },
+    {
+      "avg_logprob": -0.15090460379264856,
+      "end": 81.18,
+      "speaker": "SPEAKER_01",
+      "start": 74.32,
+      "text": "Hmm. Ese es un buen argumento. En una industria que a menudo se centra en las ganancias, eso es una declaración bastante importante."
+    },
+    {
+      "avg_logprob": -0.15090460379264856,
+      "end": 86.32,
+      "speaker": "SPEAKER_00",
+      "start": 81.44,
+      "text": "Yo también lo pensé. Sugiere que tienen confianza en la calidad de sus productos y servicios. Sí."
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 88.26,
+      "speaker": "SPEAKER_01",
+      "start": 86.34,
+      "text": "Como si estuvieran dispuestos a respaldar lo que ofrecen."
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 96.72,
+      "speaker": "SPEAKER_00",
+      "start": 88.54,
+      "text": "De acuerdo, vamos a entrar en detalles. Primero, encofrado. Básicamente, es el molde que le da forma al concreto, ¿verdad?"
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 100.26,
+      "speaker": "SPEAKER_01",
+      "start": 96.76,
+      "text": "Exactamente. Mantiene el concreto húmedo en su lugar hasta que se endurezca."
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 109.16,
+      "speaker": "SPEAKER_00",
+      "start": 100.58,
+      "text": "Está bien, imagina verter la masa de panqueques en una plancha caliente. La plancha es como el encofrado que le da forma al panqueque."
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 110.14,
+      "speaker": "SPEAKER_01",
+      "start": 109.3,
+      "text": "Me gusta esa analogía."
+    },
+    {
+      "avg_logprob": -0.23639171758144023,
+      "end": 127.96,
+      "speaker": "SPEAKER_00",
+      "start": 110.48,
+      "text": "Correcto. Y así como necesitas diferentes planchas para diferentes formas de panqueques, necesitas diferentes tipos de encofrados para diferentes estructuras de concreto, por supuesto. Y Unispan tiene un montón de diferentes sistemas de encofrado. Tienen el steel ply, que dicen que es súper versátil. Correcto. Luego está el Duraclamp, que se centra en ser modular y liviano."
+    },
+    {
+      "avg_logprob": -0.2765411036471798,
+      "end": 134.18,
+      "speaker": "SPEAKER_01",
+      "start": 128.28,
+      "text": "Correcto. Estaba mirando eso. También tienen Magnum, su sistema de servicio pesado para esos proyectos realmente grandes y exigentes."
+    },
+    {
+      "avg_logprob": -0.2765411036471798,
+      "end": 143.18,
+      "speaker": "SPEAKER_00",
+      "start": 134.48,
+      "text": "Oh, sí. Y no olvides Circaflex para esas frescas paredes y estructuras curvas. Imagínate construir un túnel o esos edificios modernos ondulados."
+    },
+    {
+      "avg_logprob": -0.2765411036471798,
+      "end": 144.06,
+      "speaker": "SPEAKER_01",
+      "start": 143.48,
+      "text": "Es bastante impresionante."
+    },
+    {
+      "avg_logprob": -0.2765411036471798,
+      "end": 153.28,
+      "speaker": "SPEAKER_00",
+      "start": 144.26,
+      "text": "Lo es. Pero espera, hay más. Tienen algo llamado el sistema de encofrado de aluminio, que afirman se puede utilizar para prácticamente cualquier trabajo de encofrado de concreto."
+    },
+    {
+      "avg_logprob": -0.21081730471207547,
+      "end": 156.56,
+      "speaker": "SPEAKER_01",
+      "start": 153.66,
+      "text": "Espera, ¿en serio, como un sistema para todo?"
+    },
+    {
+      "avg_logprob": -0.21081730471207547,
+      "end": 162.04,
+      "speaker": "SPEAKER_00",
+      "start": 156.72,
+      "text": "Eso es lo que dicen. Es como la navaja suiza de los encofrados. Tengo curiosidad, ¿cómo crees que lo hacen tan versátil?"
+    },
+    {
+      "avg_logprob": -0.21081730471207547,
+      "end": 169.4,
+      "speaker": "SPEAKER_01",
+      "start": 162.54,
+      "text": "Supongo que implica una combinación de componentes estandarizados y algunos elementos ajustables realmente ingeniosos."
+    },
+    {
+      "avg_logprob": -0.21081730471207547,
+      "end": 174.8,
+      "speaker": "SPEAKER_00",
+      "start": 169.72,
+      "text": "Como tal vez utiliza un sistema de conectores y paneles que se pueden configurar de muchísimas maneras diferentes. Sí."
+    },
+    {
+      "avg_logprob": -0.21081730471207547,
+      "end": 176.32,
+      "speaker": "SPEAKER_01",
+      "start": 174.82,
+      "text": "Como Legos super avanzados para concreto."
+    },
+    {
+      "avg_logprob": -0.11581249856948853,
+      "end": 184.5,
+      "speaker": "SPEAKER_00",
+      "start": 176.32,
+      "text": "Exactamente. Así que, en lugar de necesitar un sistema separado para muros, columnas y todo lo demás, podrías teóricamente usar el sistema de andamios de aluminio para todo."
+    },
+    {
+      "avg_logprob": -0.11581249856948853,
+      "end": 189.18,
+      "speaker": "SPEAKER_01",
+      "start": 184.64,
+      "text": "Eso sería un cambio radical para las empresas de construcción. Piensa en la logística y la capacitación involucradas."
+    },
+    {
+      "avg_logprob": -0.11581249856948853,
+      "end": 199.46,
+      "speaker": "SPEAKER_00",
+      "start": 189.62,
+      "text": "Totalmente. Muy bien. Así que tenemos nuestro concreto todo moldeado gracias a nuestro confiable encofrado, pero aún está húmedo, ¿verdad? Como una gigantesca gelatina de concreto esperando a que se endurezca."
+    },
+    {
+      "avg_logprob": -0.11581249856948853,
+      "end": 206.3,
+      "speaker": "SPEAKER_01",
+      "start": 199.68,
+      "text": "Y ahí es donde entra el apuntalamiento. Es un sistema de soporte temporal que mantiene todo en su lugar mientras el concreto se endurece. Vaya."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 210.06,
+      "speaker": "SPEAKER_00",
+      "start": 206.32,
+      "text": "Ah, lo veo. Es como el andamiaje que ves alrededor de los edificios en construcción."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 217.74,
+      "speaker": "SPEAKER_01",
+      "start": 210.5,
+      "text": "Sí, pero es más que solo andamiaje. Está diseñado para soportar el peso del concreto húmedo y prevenir cualquier colapso o desplazamiento."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 221.76,
+      "speaker": "SPEAKER_00",
+      "start": 218,
+      "text": "Así que es como la columna vertebral de la estructura hasta que el concreto pueda sostenerse por sí mismo."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 225.98,
+      "speaker": "SPEAKER_01",
+      "start": 222.08,
+      "text": "Exactamente. Y Unispan tiene varios sistemas de encofrado bajo la manga."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 226.68,
+      "speaker": "SPEAKER_00",
+      "start": 226.26,
+      "text": "¿Como qué?"
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 232.74,
+      "speaker": "SPEAKER_01",
+      "start": 226.94,
+      "text": "Bueno, está Hi-Load, que ellos describen como fuerte y confiable. Básicamente, es el caballo de batalla de la sostenimiento."
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 233.98,
+      "speaker": "SPEAKER_00",
+      "start": 232.94,
+      "text": "Tiene sentido. ¿Qué más?"
+    },
+    {
+      "avg_logprob": -0.1122645548965833,
+      "end": 238,
+      "speaker": "SPEAKER_01",
+      "start": 234.06,
+      "text": "Tienen Alspeed, que se centra en ser fuerte. Ser ligero y reducir el trabajo."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 244,
+      "speaker": "SPEAKER_00",
+      "start": 238.42,
+      "text": "Ligero. Eso debe ser una gran ayuda para los trabajadores de la construcción que tienen que mover y ensamblar todo ese equipo pesado."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 248.06,
+      "speaker": "SPEAKER_01",
+      "start": 244.38,
+      "text": "Absolutamente. Menos tensión para los trabajadores, ensamblaje más rápido. Es un ganar-ganar."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 253.76,
+      "speaker": "SPEAKER_00",
+      "start": 248.2,
+      "text": "Y supongo que también tienen los clásicos postes de soporte, ¿verdad? Esas columnas de acero ajustables que ves por todas partes."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 260.84,
+      "speaker": "SPEAKER_01",
+      "start": 253.98,
+      "text": "Lo tienes. Esas son como el pan y la mantequilla de las soluciones de apuntalamiento. Simples, versátiles y se pueden encontrar en prácticamente cualquier obra de construcción."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 262.08,
+      "speaker": "SPEAKER_00",
+      "start": 260.98,
+      "text": "Fiable y adaptable."
+    },
+    {
+      "avg_logprob": -0.053124999116968226,
+      "end": 275.52,
+      "speaker": "SPEAKER_01",
+      "start": 262.22,
+      "text": "Exactamente. Pero aquí es donde las cosas se ponen realmente interesantes. También ofrecen puntales horizontales de aluminio ajustables. Y mira esto, dicen que estos pueden eliminar la necesidad de puntales soportados por el suelo típicos."
+    },
+    {
+      "avg_logprob": -0.07679115659822293,
+      "end": 279.68,
+      "speaker": "SPEAKER_00",
+      "start": 275.96,
+      "text": "Espera, ¿qué? ¿Cómo refuerzas algo sin ningún soporte en el suelo?"
+    },
+    {
+      "avg_logprob": -0.07679115659822293,
+      "end": 288.92,
+      "speaker": "SPEAKER_01",
+      "start": 279.96,
+      "text": "Eso es lo que pensé. Es bastante ingenioso, en realidad. En lugar de soportes verticales, estos puntales horizontales se extienden entre paredes opuestas u otros elementos estructurales existentes."
+    },
+    {
+      "avg_logprob": -0.07679115659822293,
+      "end": 291.1,
+      "speaker": "SPEAKER_00",
+      "start": 289.06,
+      "text": "Así que es como si estuvieran reforzando la estructura desde dentro hacia fuera."
+    },
+    {
+      "avg_logprob": -0.07679115659822293,
+      "end": 303.62,
+      "speaker": "SPEAKER_01",
+      "start": 291.26,
+      "text": "Lo tienes. Y esto abre un mundo completamente nuevo de posibilidades para situaciones. Sí. Imagina renovar un edificio histórico con un espacio limitado o trabajar en un sitio con terreno inestable."
+    },
+    {
+      "avg_logprob": -0.16840277314186097,
+      "end": 318.56,
+      "speaker": "SPEAKER_00",
+      "start": 303.94,
+      "text": "Vaya. Eso es impresionante. Lo es. Bien. Así que Unispan tiene encofrado para dar forma al concreto y apuntalamiento para mantener todo unido. Pero, ¿qué hay de todas las pequeñas piezas y elementos que hacen que estos sistemas funcionen? Como las ataduras, los soportes, ya sabes, las cosas que conectan todo."
+    },
+    {
+      "avg_logprob": -0.16840277314186097,
+      "end": 322.64,
+      "speaker": "SPEAKER_01",
+      "start": 318.82,
+      "text": "También tienen todo eso. Incluso proporcionan contrachapado, lo cual me pareció interesante."
+    },
+    {
+      "avg_logprob": -0.16840277314186097,
+      "end": 324.94,
+      "speaker": "SPEAKER_00",
+      "start": 322.82,
+      "text": "Espera, ¿en serio? ¿También proporcionan la madera contrachapada?"
+    },
+    {
+      "avg_logprob": -0.08766698643906426,
+      "end": 328.84,
+      "speaker": "SPEAKER_01",
+      "start": 324.94,
+      "text": "Sí. De hecho, destacan un tipo específico, el Svizadek 350."
+    },
+    {
+      "avg_logprob": -0.08766698643906426,
+      "end": 335.54,
+      "speaker": "SPEAKER_00",
+      "start": 329.32,
+      "text": "Hmm. Tengo curiosidad. ¿Qué hace que este contrachapado sea tan especial como para que lo destaquen? Quiero decir, el contrachapado es contrachapado, ¿no?"
+    },
+    {
+      "avg_logprob": -0.08766698643906426,
+      "end": 348.36,
+      "speaker": "SPEAKER_01",
+      "start": 335.8,
+      "text": "Bueno, no exactamente. La madera contrachapada para encofrado tiene que ser bastante resistente. Necesita soportar la presión del concreto, resistir la humedad y desprenderse limpiamente del concreto una vez que esté seco. Es fundamental para obtener un acabado de concreto liso y hermoso."
+    },
+    {
+      "avg_logprob": -0.08766698643906426,
+      "end": 354.92,
+      "speaker": "SPEAKER_00",
+      "start": 348.64,
+      "text": "Ah, ya veo. Entonces, este Svizadek 350 es como el superhéroe de la contrachapado, diseñado para manejar el concreto."
+    },
+    {
+      "avg_logprob": -0.03278356542189916,
+      "end": 358.92,
+      "speaker": "SPEAKER_01",
+      "start": 354.92,
+      "text": "Exactamente. Es conocido por su durabilidad y suavidad."
+    },
+    {
+      "avg_logprob": -0.03278356542189916,
+      "end": 367.64,
+      "speaker": "SPEAKER_00",
+      "start": 359.08,
+      "text": "Así que tienen los productos, pero también enfatizan mucho el servicio. Es como si no solo estuvieran vendiendo equipos. Están tratando de ser un socio durante todo el proceso de construcción."
+    },
+    {
+      "avg_logprob": -0.03278356542189916,
+      "end": 379.62,
+      "speaker": "SPEAKER_01",
+      "start": 368.1,
+      "text": "Claro. Y eso va más allá de ser simplemente amigables. Ofrecen cosas como servicios de consulta y presupuestación. ¿Qué significa eso? Significa que se sentarán con los clientes, entenderán sus necesidades y les ayudarán a determinar qué sistemas son los mejores para su proyecto."
+    },
+    {
+      "avg_logprob": -0.03278356542189916,
+      "end": 383.42,
+      "speaker": "SPEAKER_00",
+      "start": 379.92,
+      "text": "Eso es bastante genial. Así que no solo te están entregando un catálogo y diciéndote, elige lo que quieras. No."
+    },
+    {
+      "avg_logprob": -0.11229723236943019,
+      "end": 391.32,
+      "speaker": "SPEAKER_01",
+      "start": 383.42,
+      "text": "Están activamente involucrados en encontrar las soluciones adecuadas. Y incluso ayudan a los clientes a desarrollar un presupuesto para el aseguramiento de encofrados."
+    },
+    {
+      "avg_logprob": -0.11229723236943019,
+      "end": 394.06,
+      "speaker": "SPEAKER_00",
+      "start": 391.66,
+      "text": "Está bien. Así que son como consultores de seguros de encofrados."
+    },
+    {
+      "avg_logprob": -0.11229723236943019,
+      "end": 404.68,
+      "speaker": "SPEAKER_01",
+      "start": 394.9,
+      "text": "Exactamente. Y también tiene sentido desde el punto de vista empresarial. Al ser útiles y proporcionar ese nivel adicional de servicio, están construyendo confianza y lealtad con sus clientes."
+    },
+    {
+      "avg_logprob": -0.11229723236943019,
+      "end": 408.54,
+      "speaker": "SPEAKER_00",
+      "start": 404.92,
+      "text": "Movimiento inteligente. Y además de eso, tienen todo un departamento de ingeniería."
+    },
+    {
+      "avg_logprob": -0.11229723236943019,
+      "end": 414.84,
+      "speaker": "SPEAKER_01",
+      "start": 408.86,
+      "text": "Oh, sí. Ese es un gran asunto. Pueden proporcionar dibujos y cálculos detallados para asegurarse de que lo están haciendo bien. Pueden asegurarse de que todo sea estructuralmente sólido."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 416.1,
+      "speaker": "SPEAKER_00",
+      "start": 414.98,
+      "text": "Eso es importante, sin duda."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 419.98,
+      "speaker": "SPEAKER_01",
+      "start": 416.36,
+      "text": "Y escucha esto, incluso pueden hacer que esos dibujos sean sellados por un ingeniero profesional."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 423.48,
+      "speaker": "SPEAKER_00",
+      "start": 420.4,
+      "text": "Espera, ¿en serio? ¿No es eso un tema bastante importante en la construcción?"
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 434.42,
+      "speaker": "SPEAKER_01",
+      "start": 424.18,
+      "text": "Enorme. Significa que los diseños han sido revisados y aprobados por un ingeniero licenciado. Es como un sello de aprobación, que garantiza que los sistemas cumplen con todos los códigos de seguridad y construcción."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 436,
+      "speaker": "SPEAKER_00",
+      "start": 434.66,
+      "text": "Eso es un gran beneficio para los clientes."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 440.26,
+      "speaker": "SPEAKER_01",
+      "start": 436.32,
+      "text": "Definitivamente. Y muestra que Unispan se toma en serio hacer las cosas bien."
+    },
+    {
+      "avg_logprob": -0.07092198898606267,
+      "end": 444.78,
+      "speaker": "SPEAKER_00",
+      "start": 440.4,
+      "text": "Y no solo entregan el equipo y dicen, buena suerte. También ofrecen servicios en el lugar."
+    },
+    {
+      "avg_logprob": -0.05217417635658915,
+      "end": 450.06,
+      "speaker": "SPEAKER_01",
+      "start": 444.98,
+      "text": "Correcto. Enviarán a sus expertos al sitio de construcción para capacitar a los equipos sobre cómo usar el equipo correctamente."
+    },
+    {
+      "avg_logprob": -0.05217417635658915,
+      "end": 455.66,
+      "speaker": "SPEAKER_00",
+      "start": 450.24,
+      "text": "Así que no se trata solo de vender o alquilar las cosas. Se trata de asegurarse de que se utilicen de manera correcta y segura."
+    },
+    {
+      "avg_logprob": -0.05217417635658915,
+      "end": 460.08,
+      "speaker": "SPEAKER_01",
+      "start": 455.96,
+      "text": "Exactamente. Y eso es un testimonio de su compromiso con el servicio al cliente y la seguridad."
+    },
+    {
+      "avg_logprob": -0.05217417635658915,
+      "end": 472.56,
+      "speaker": "SPEAKER_00",
+      "start": 460.38,
+      "text": "Está bien. Entonces, tenemos todos estos diferentes sistemas de encofrado y soporte. Pero tengo curiosidad, con tantas opciones, ¿cómo comienzan los ingenieros a elegir el adecuado para un proyecto en particular? Parece muy complicado."
+    },
+    {
+      "avg_logprob": -0.07608695800259987,
+      "end": 482.94,
+      "speaker": "SPEAKER_01",
+      "start": 473,
+      "text": "Esa es una gran pregunta. Hay muchas variables a considerar. No se trata solo de elegir el sistema más fuerte o más llamativo. Se trata de encontrar el ajuste perfecto para el trabajo. Y eso requiere una experiencia seria."
+    },
+    {
+      "avg_logprob": -0.07608695800259987,
+      "end": 490.62,
+      "speaker": "SPEAKER_00",
+      "start": 483.44,
+      "text": "Bueno, en esa nota, tomemos un breve descanso y luego volvamos para explorar ese proceso de toma de decisiones. Porque, ya sabes, esto es un análisis profundo."
+    },
+    {
+      "avg_logprob": -0.07608695800259987,
+      "end": 495.94,
+      "speaker": "SPEAKER_01",
+      "start": 491.52,
+      "text": "Es un poco como elegir la herramienta adecuada para el trabajo. No usarías un martillo para atornillar una bombilla, ¿verdad?"
+    },
+    {
+      "avg_logprob": -0.07608695800259987,
+      "end": 503.9,
+      "speaker": "SPEAKER_00",
+      "start": 496.52,
+      "text": "Está bien. Pero elegir entre sistemas de encofrado y apuntalamiento parece mucho más complicado. Más complicado que elegir un destornillador sobre un martillo."
+    },
+    {
+      "avg_logprob": -0.05759803785218133,
+      "end": 508.08,
+      "speaker": "SPEAKER_01",
+      "start": 504.04,
+      "text": "Cierto. Pero el principio básico es el mismo. Necesitas la herramienta adecuada para la tarea en cuestión."
+    },
+    {
+      "avg_logprob": -0.05759803785218133,
+      "end": 514.46,
+      "speaker": "SPEAKER_00",
+      "start": 508.44,
+      "text": "Así que guíame a través de esto. ¿Cuáles son algunas de las cosas que los ingenieros consideran al elegir un sistema de encofrado o soporte?"
+    },
+    {
+      "avg_logprob": -0.05759803785218133,
+      "end": 524.93,
+      "speaker": "SPEAKER_01",
+      "start": 514.86,
+      "text": "Bueno, primero y ante todo, tienen que pensar en el tamaño y la escala del proyecto. Un soporte de puente masivo va a necesitar un sistema muy diferente al de, digamos, una pequeña pared de contención para un patio trasero."
+    },
+    {
+      "avg_logprob": -0.05759803785218133,
+      "end": 528.69,
+      "speaker": "SPEAKER_00",
+      "start": 525.17,
+      "text": "Correcto. Cuanto más grande es el proyecto, más robusto necesita ser el sistema. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05759803785218133,
+      "end": 539.11,
+      "speaker": "SPEAKER_01",
+      "start": 529.15,
+      "text": "Y luego está la forma de la estructura de concreto. Paredes, losas, columnas, vigas, superficies curvadas. Cada una puede requerir un tipo diferente de encofrado o apuntalamiento."
+    },
+    {
+      "avg_logprob": -0.07136656887947566,
+      "end": 545.75,
+      "speaker": "SPEAKER_00",
+      "start": 539.25,
+      "text": "Así que no se trata solo de fuerza. Se trata de adaptar el sistema a la forma específica del elemento de concreto. Precisamente."
+    },
+    {
+      "avg_logprob": -0.07136656887947566,
+      "end": 557.85,
+      "speaker": "SPEAKER_01",
+      "start": 545.77,
+      "text": "Y no te olvides de la carga estructural. El sistema debe ser capaz de soportar el peso del concreto húmedo, que puede ser increíblemente pesado, además de cualquier carga adicional de equipos de construcción o materiales."
+    },
+    {
+      "avg_logprob": -0.07136656887947566,
+      "end": 560.03,
+      "speaker": "SPEAKER_00",
+      "start": 558.23,
+      "text": "Vaya. Eso es mucho que considerar."
+    },
+    {
+      "avg_logprob": -0.07136656887947566,
+      "end": 567.91,
+      "speaker": "SPEAKER_01",
+      "start": 560.25,
+      "text": "Sí. Los ingenieros están realizando cálculos complejos para asegurarse de que el encofrado y el soporte puedan sostener todo sin colapsar."
+    },
+    {
+      "avg_logprob": -0.05791311617940664,
+      "end": 573.15,
+      "speaker": "SPEAKER_00",
+      "start": 568.11,
+      "text": "Es como un enorme juego de Jenga de concreto, asegurándose de que todo se mantenga equilibrado y en su lugar."
+    },
+    {
+      "avg_logprob": -0.05791311617940664,
+      "end": 579.25,
+      "speaker": "SPEAKER_01",
+      "start": 573.35,
+      "text": "Esa es una excelente manera de expresarlo. Y luego, por supuesto, está el sitio en sí. No puedes simplemente ignorar las condiciones del terreno y el entorno circundante."
+    },
+    {
+      "avg_logprob": -0.05791311617940664,
+      "end": 585.87,
+      "speaker": "SPEAKER_00",
+      "start": 579.49,
+      "text": "Correcto. Si estás construyendo en una pendiente o en un área con suelo inestable, eso definitivamente afectaría tu elección de apuntalamiento. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.05791311617940664,
+      "end": 592.25,
+      "speaker": "SPEAKER_01",
+      "start": 586.33,
+      "text": "La estabilidad del suelo, la accesibilidad del sitio. Incluso el clima. Todas estas cosas pueden afectar la situación."
+    },
+    {
+      "avg_logprob": -0.05489622960791333,
+      "end": 598.99,
+      "speaker": "SPEAKER_00",
+      "start": 592.45,
+      "text": "Así que es como un problema multifacético en el que estás tratando de encontrar el sistema perfecto que cumpla con todos estos diferentes requisitos. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05489622960791333,
+      "end": 603.35,
+      "speaker": "SPEAKER_01",
+      "start": 598.99,
+      "text": "Y luego, por supuesto, está el presupuesto. No siempre puedes elegir el sistema más caro y de gama alta."
+    },
+    {
+      "avg_logprob": -0.05489622960791333,
+      "end": 607.17,
+      "speaker": "SPEAKER_00",
+      "start": 603.61,
+      "text": "Correcto. Tienes que equilibrar el rendimiento y la seguridad con la asequibilidad. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05489622960791333,
+      "end": 616.05,
+      "speaker": "SPEAKER_01",
+      "start": 607.45,
+      "text": "Por lo tanto, los ingenieros y gerentes de construcción siempre están evaluando estos factores, tratando de encontrar la mejor solución posible dentro del presupuesto del proyecto."
+    },
+    {
+      "avg_logprob": -0.045826343181949336,
+      "end": 620.79,
+      "speaker": "SPEAKER_00",
+      "start": 616.05,
+      "text": "Está bien. Estoy empezando a entender por qué lo llaman ingeniería. Es mucho más que solo dibujar líneas en papel."
+    },
+    {
+      "avg_logprob": -0.045826343181949336,
+      "end": 625.09,
+      "speaker": "SPEAKER_01",
+      "start": 621.11,
+      "text": "Definitivamente lo es. Se trata de resolver problemas y encontrar soluciones creativas."
+    },
+    {
+      "avg_logprob": -0.045826343181949336,
+      "end": 636.41,
+      "speaker": "SPEAKER_00",
+      "start": 625.51,
+      "text": "Claro, hemos hablado sobre los factores generales, pero quiero volver a algunos de los sistemas de encofrado específicos que ofrece Unispan. Mencionamos el encofrado de acero anteriormente. ¿Puedes recordarme qué lo hace destacar? Claro."
+    },
+    {
+      "avg_logprob": -0.045826343181949336,
+      "end": 645.95,
+      "speaker": "SPEAKER_01",
+      "start": 636.63,
+      "text": "La madera contrachapada de acero es conocida por su versatilidad. Utiliza una combinación de marcos de acero y una cara de contrachapado. Y puedes configurarla de muchas maneras diferentes para crear todo tipo de formas."
+    },
+    {
+      "avg_logprob": -0.04489436454441346,
+      "end": 649.85,
+      "speaker": "SPEAKER_00",
+      "start": 645.95,
+      "text": "Así que es como un enorme juego de erector para construir con concreto."
+    },
+    {
+      "avg_logprob": -0.04489436454441346,
+      "end": 654.33,
+      "speaker": "SPEAKER_01",
+      "start": 650.17,
+      "text": "Casi. Esa modularidad lo hace adaptable a una amplia gama de proyectos."
+    },
+    {
+      "avg_logprob": -0.04489436454441346,
+      "end": 659.65,
+      "speaker": "SPEAKER_00",
+      "start": 654.69,
+      "text": "Eso debe ahorrar mucho tiempo y dinero al no tener que cambiar de sistemas por cada pequeño cambio en el diseño. Exactamente."
+    },
+    {
+      "avg_logprob": -0.04489436454441346,
+      "end": 670.25,
+      "speaker": "SPEAKER_01",
+      "start": 660.13,
+      "text": "Luego está DuraClamp, que se centra en la velocidad y la eficiencia. Utiliza paneles de acero galvanizado livianos con estos sujetadores especiales que permiten un ensamblaje y desmontaje rápido y fácil."
+    },
+    {
+      "avg_logprob": -0.04489436454441346,
+      "end": 675.87,
+      "speaker": "SPEAKER_00",
+      "start": 670.45,
+      "text": "Ah, así que si estás trabajando en un proyecto con plazos ajustados, DuraClamp sería una buena opción. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.08216977119445801,
+      "end": 685.85,
+      "speaker": "SPEAKER_01",
+      "start": 675.95,
+      "text": "Piensa en un gran desarrollo residencial o un edificio de varios pisos donde básicamente estás repitiendo el mismo encofrado una y otra vez. DuraClamp te ayudaría a moverte rápidamente y cumplir con esos plazos."
+    },
+    {
+      "avg_logprob": -0.08216977119445801,
+      "end": 691.83,
+      "speaker": "SPEAKER_00",
+      "start": 686.19,
+      "text": "Tiene sentido. Y en el otro extremo del espectro, tenemos Magnum, el sistema de alta resistencia. Correcto."
+    },
+    {
+      "avg_logprob": -0.08216977119445801,
+      "end": 702.75,
+      "speaker": "SPEAKER_01",
+      "start": 691.85,
+      "text": "Magnum es la bestia de carga para aquellos proyectos realmente exigentes que requieren una gran cantidad de fuerza y durabilidad, como puentes masivos, represas o complejos edificios de gran altura con esos intrincados diseños de concreto."
+    },
+    {
+      "avg_logprob": -0.08216977119445801,
+      "end": 706.59,
+      "speaker": "SPEAKER_00",
+      "start": 703.15,
+      "text": "Es como el Hulk de los encofrados, construido para manejar los momentos más difíciles. Exactamente."
+    },
+    {
+      "avg_logprob": -0.06646285880950914,
+      "end": 711.99,
+      "speaker": "SPEAKER_01",
+      "start": 707.05,
+      "text": "Y luego tenemos Circaflex, que está diseñado específicamente para paredes y superficies curvas."
+    },
+    {
+      "avg_logprob": -0.06646285880950914,
+      "end": 717.57,
+      "speaker": "SPEAKER_00",
+      "start": 712.29,
+      "text": "Sí, tenía curiosidad sobre eso. Parece que sería muy desafiante construir encofrados para una estructura curva."
+    },
+    {
+      "avg_logprob": -0.06646285880950914,
+      "end": 728.33,
+      "speaker": "SPEAKER_01",
+      "start": 717.99,
+      "text": "Definitivamente puede serlo. Pero ahí es donde entra Circaflex. Utiliza estos paneles ajustables y ataduras de forma flexibles que se pueden curvar para crear esas superficies de concreto suaves y fluidas."
+    },
+    {
+      "avg_logprob": -0.06646285880950914,
+      "end": 733.05,
+      "speaker": "SPEAKER_00",
+      "start": 728.67,
+      "text": "Así que es como doblar un trozo de papel en lugar de intentar plegarlo en una curva. Exactamente."
+    },
+    {
+      "avg_logprob": -0.06646285880950914,
+      "end": 737.97,
+      "speaker": "SPEAKER_01",
+      "start": 733.05,
+      "text": "Permite un nivel mucho más alto de precisión y estética. Cuando se trata de estructuras de concreto curvadas."
+    },
+    {
+      "avg_logprob": -0.06807214991353891,
+      "end": 746.35,
+      "speaker": "SPEAKER_00",
+      "start": 738.29,
+      "text": "Y, por supuesto, tenemos el misterioso sistema de andamiaje de aluminio, que ellos afirman puede manejar casi cualquier trabajo de encofrado de concreto. Claro."
+    },
+    {
+      "avg_logprob": -0.06807214991353891,
+      "end": 750.19,
+      "speaker": "SPEAKER_01",
+      "start": 746.47,
+      "text": "Esa es la que también despertó mi curiosidad. Sin duda es una afirmación audaz."
+    },
+    {
+      "avg_logprob": -0.06807214991353891,
+      "end": 754.97,
+      "speaker": "SPEAKER_00",
+      "start": 750.39,
+      "text": "¿Crees que realmente son capaces de lograrlo? ¿O es solo un ingenioso truco de marketing?"
+    },
+    {
+      "avg_logprob": -0.06807214991353891,
+      "end": 764.71,
+      "speaker": "SPEAKER_01",
+      "start": 755.19,
+      "text": "Me estoy inclinando hacia la posibilidad de que realmente pueda lograrlo. Sí. Unispan parece ser bastante innovador. Y ya han demostrado mucha experiencia con sus otros sistemas."
+    },
+    {
+      "avg_logprob": -0.05045072118250223,
+      "end": 765.61,
+      "speaker": "SPEAKER_00",
+      "start": 764.71,
+      "text": "Sí, eso es cierto."
+    },
+    {
+      "avg_logprob": -0.05045072118250223,
+      "end": 776.89,
+      "speaker": "SPEAKER_01",
+      "start": 765.77,
+      "text": "Mi suposición es que este sistema de andamios de aluminio utiliza una combinación de componentes estandarizados y algunos elementos ajustables realmente ingeniosos que permiten adaptarse a todo tipo de formas y tamaños."
+    },
+    {
+      "avg_logprob": -0.05045072118250223,
+      "end": 782.95,
+      "speaker": "SPEAKER_00",
+      "start": 777.01,
+      "text": "Así que es como el transformador de encofrados definitivo, cambiando y adaptándose para satisfacer las necesidades de cualquier proyecto. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05045072118250223,
+      "end": 792.39,
+      "speaker": "SPEAKER_01",
+      "start": 783.07,
+      "text": "Y si realmente han alcanzado ese nivel de versatilidad, podría revolucionar la industria de la construcción. Piénsalo. Los equipos solo tendrían que ser capacitados en un sistema en lugar de en una docena de diferentes."
+    },
+    {
+      "avg_logprob": -0.05045072118250223,
+      "end": 793.69,
+      "speaker": "SPEAKER_00",
+      "start": 792.49,
+      "text": "Eso simplificaría las cosas inmensamente."
+    },
+    {
+      "avg_logprob": -0.08424961764687373,
+      "end": 799.41,
+      "speaker": "SPEAKER_01",
+      "start": 793.69,
+      "text": "Lo haría. Y podría potencialmente ahorrar a las empresas de construcción una gran cantidad de dinero y tiempo."
+    },
+    {
+      "avg_logprob": -0.08424961764687373,
+      "end": 809.35,
+      "speaker": "SPEAKER_00",
+      "start": 799.65,
+      "text": "De acuerdo, suficiente sobre encofrado por ahora. Cambiemos de tema y hablemos de apuntalamiento. Hablamos brevemente sobre carga alta antes. ¿Puedes contarme más sobre lo que lo hace tan fuerte y confiable? Claro."
+    },
+    {
+      "avg_logprob": -0.08424961764687373,
+      "end": 820.75,
+      "speaker": "SPEAKER_01",
+      "start": 809.73,
+      "text": "Como su nombre indica, la alta carga está diseñada para manejar cargas pesadas. Está construida con marcos de acero de alta capacidad y patas ajustables. Además, se puede configurar de diversas maneras para soportar pesos masivos."
+    },
+    {
+      "avg_logprob": -0.08424961764687373,
+      "end": 826.35,
+      "speaker": "SPEAKER_00",
+      "start": 821.03,
+      "text": "Entonces, si estás construyendo un puente o un rascacielos, se diseña una alta carga para manejar cargas pesadas. Alta carga es el sistema de soporte que querrías usar. Exactamente."
+    },
+    {
+      "avg_logprob": -0.07500000238418579,
+      "end": 830.95,
+      "speaker": "SPEAKER_01",
+      "start": 826.35,
+      "text": "Es la opción preferida para aquellos proyectos donde la resistencia y la estabilidad son absolutamente críticas."
+    },
+    {
+      "avg_logprob": -0.07500000238418579,
+      "end": 838.93,
+      "speaker": "SPEAKER_00",
+      "start": 831.15,
+      "text": "Tiene sentido. Y luego tenemos Alspeed, que se enfoca en ser liviano y reducir el trabajo. ¿Cuál es la magia detrás de su menor peso? Aluminio."
+    },
+    {
+      "avg_logprob": -0.07500000238418579,
+      "end": 846.89,
+      "speaker": "SPEAKER_01",
+      "start": 839.35,
+      "text": "Alspeed utiliza componentes de aluminio livianos, lo que facilita significativamente su manejo y ensamblaje en comparación con los sistemas de encofrado tradicionales."
+    },
+    {
+      "avg_logprob": -0.07500000238418579,
+      "end": 850.51,
+      "speaker": "SPEAKER_00",
+      "start": 846.95,
+      "text": "Así que menos tensión en los trabajadores y tiempos de ensamblaje más rápidos. Exactamente."
+    },
+    {
+      "avg_logprob": -0.046167570188289556,
+      "end": 859.71,
+      "speaker": "SPEAKER_01",
+      "start": 850.51,
+      "text": "Y en el mundo de la construcción, el tiempo es dinero. Así que un sistema que puede acelerar el proceso mientras reduce el riesgo de lesiones es un gran avance."
+    },
+    {
+      "avg_logprob": -0.046167570188289556,
+      "end": 862.09,
+      "speaker": "SPEAKER_00",
+      "start": 859.85,
+      "text": "Puedo ver por qué lo enfatizarían. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.046167570188289556,
+      "end": 864.91,
+      "speaker": "SPEAKER_01",
+      "start": 862.51,
+      "text": "Y luego, por supuesto, tenemos las clásicas publicaciones de costas."
+    },
+    {
+      "avg_logprob": -0.046167570188289556,
+      "end": 871.17,
+      "speaker": "SPEAKER_00",
+      "start": 865.21,
+      "text": "Ah, sí. Los confiables soportes de postes. Esas columnas de acero ajustables que parecen estar en todas partes."
+    },
+    {
+      "avg_logprob": -0.046167570188289556,
+      "end": 887.17,
+      "speaker": "SPEAKER_01",
+      "start": 871.47,
+      "text": "Lo tienes. Son simples, confiables, increíblemente versátiles y puedes ajustarlos a diferentes alturas para adaptarse a las necesidades específicas del proyecto. Son como la herramienta multifuncional de apuntalamiento, siempre listos para ofrecer una mano amiga o, debería decir, una columna de soporte."
+    },
+    {
+      "avg_logprob": -0.06598958546916643,
+      "end": 891.13,
+      "speaker": "SPEAKER_00",
+      "start": 887.37,
+      "text": "Me encanta eso. Son tan versátiles, puedes usarlos para prácticamente cualquier cosa. Exactamente."
+    },
+    {
+      "avg_logprob": -0.06598958546916643,
+      "end": 895.03,
+      "speaker": "SPEAKER_01",
+      "start": 891.39,
+      "text": "Son los héroes anónimos de innumerables proyectos de construcción. Está bien."
+    },
+    {
+      "avg_logprob": -0.06598958546916643,
+      "end": 902.65,
+      "speaker": "SPEAKER_00",
+      "start": 895.07,
+      "text": "Unispont también menciona en su sitio web cosas llamadas viguetas de aluminio y travesaños. ¿De qué se trata eso? ¿Están relacionados con el apuntalamiento también?"
+    },
+    {
+      "avg_logprob": -0.06598958546916643,
+      "end": 918.97,
+      "speaker": "SPEAKER_01",
+      "start": 902.83,
+      "text": "Ellos son. Piensa en ellos como los socios horizontales de esos puntales verticales. Sí. Se extienden entre los puntales, proporcionando soporte adicional. Y ayudan a distribuir la carga de manera más uniforme a lo largo de toda la estructura de apuntalamiento. Y dado que están hechos de aluminio, son livianos y fáciles de manejar, como Alspeed."
+    },
+    {
+      "avg_logprob": -0.04931249916553497,
+      "end": 925.13,
+      "speaker": "SPEAKER_00",
+      "start": 919.25,
+      "text": "Así que son como las vigas que conectan los pilares, creando un marco más fuerte y estable para el apuntalamiento. Precisamente."
+    },
+    {
+      "avg_logprob": -0.04931249916553497,
+      "end": 932.97,
+      "speaker": "SPEAKER_01",
+      "start": 925.49,
+      "text": "Son esenciales para mantener la integridad estructural, especialmente en situaciones donde se manejan cargas pesadas o diseños complejos."
+    },
+    {
+      "avg_logprob": -0.04931249916553497,
+      "end": 937.99,
+      "speaker": "SPEAKER_00",
+      "start": 933.49,
+      "text": "Es como si estuvieran construyendo un esqueleto gigante para soportar la estructura de concreto. Exactamente."
+    },
+    {
+      "avg_logprob": -0.04931249916553497,
+      "end": 944.49,
+      "speaker": "SPEAKER_01",
+      "start": 938.27,
+      "text": "Están creando un marco. Pueden manejar el peso y la presión del concreto hasta que se endurezca y pueda sostenerse por sí mismo."
+    },
+    {
+      "avg_logprob": -0.058333333550641936,
+      "end": 954.49,
+      "speaker": "SPEAKER_00",
+      "start": 944.69,
+      "text": "Está bien. Volvamos a esos puntales horizontales de aluminio ajustables que me dejaron completamente asombrado antes. Todavía estoy tratando de entender cómo funcionan sin ningún soporte en el suelo."
+    },
+    {
+      "avg_logprob": -0.058333333550641936,
+      "end": 968.01,
+      "speaker": "SPEAKER_01",
+      "start": 954.73,
+      "text": "Es un concepto bastante ingenioso. En lugar de depender de esos soportes verticales tradicionales que descansan en el suelo, estos soportes horizontales en realidad se extienden entre paredes opuestas u otros elementos estructurales dentro de la propia estructura."
+    },
+    {
+      "avg_logprob": -0.058333333550641936,
+      "end": 972.61,
+      "speaker": "SPEAKER_00",
+      "start": 968.19,
+      "text": "Así que son como soportes internos. Manteniendo todo unido desde adentro hacia afuera. Exactamente."
+    },
+    {
+      "avg_logprob": -0.07576884938374398,
+      "end": 980.69,
+      "speaker": "SPEAKER_01",
+      "start": 972.81,
+      "text": "Utilizan estos mecanismos ajustables para crear tensión. Y básicamente se mantienen en su lugar empujando hacia afuera contra la estructura existente."
+    },
+    {
+      "avg_logprob": -0.07576884938374398,
+      "end": 984.51,
+      "speaker": "SPEAKER_00",
+      "start": 980.95,
+      "text": "Así que son como un corsé gigante, autocontenido, para la estructura de concreto."
+    },
+    {
+      "avg_logprob": -0.07576884938374398,
+      "end": 998.43,
+      "speaker": "SPEAKER_01",
+      "start": 984.89,
+      "text": "Esa es una gran analogía. Y es una técnica particularmente útil en situaciones donde el apuntalamiento tradicional desde el suelo simplemente no es factible. Como imaginar la renovación de un edificio histórico con pisos delicados o trabajar en un sitio donde el terreno es inestable."
+    },
+    {
+      "avg_logprob": -0.07576884938374398,
+      "end": 1002.87,
+      "speaker": "SPEAKER_00",
+      "start": 998.47,
+      "text": "O una estructura realmente compleja. O un sitio de construcción abarrotado donde no hay espacio para esos soportes verticales. Exactamente."
+    },
+    {
+      "avg_logprob": -0.0629882820778423,
+      "end": 1007.45,
+      "speaker": "SPEAKER_01",
+      "start": 1003.11,
+      "text": "Ofrecen un nivel completamente nuevo de flexibilidad y adaptabilidad en esas situaciones desafiantes."
+    },
+    {
+      "avg_logprob": -0.0629882820778423,
+      "end": 1013.11,
+      "speaker": "SPEAKER_00",
+      "start": 1007.91,
+      "text": "Es como si estuvieran doblando las reglas de la física para hacer posible la construcción en lugares donde normalmente no sería posible."
+    },
+    {
+      "avg_logprob": -0.0629882820778423,
+      "end": 1020.55,
+      "speaker": "SPEAKER_01",
+      "start": 1013.35,
+      "text": "De cierta manera lo son. Es un testimonio de la ingenio de los ingenieros y su capacidad para encontrar soluciones creativas a problemas complejos."
+    },
+    {
+      "avg_logprob": -0.0629882820778423,
+      "end": 1032.03,
+      "speaker": "SPEAKER_00",
+      "start": 1020.81,
+      "text": "Está bien. Así que hemos cubierto mucho terreno aquí. Hemos profundizado en el mundo de los encofrados y las puntales. Exploramos la impresionante gama de sistemas de Unispan. E incluso hemos tocado la mágica física que desafía la gravedad de los puntales horizontales."
+    },
+    {
+      "avg_logprob": -0.05447387869935483,
+      "end": 1044.77,
+      "speaker": "SPEAKER_01",
+      "start": 1032.29,
+      "text": "Ha sido todo un viaje. Hemos aprendido sobre el acero de múltiples capas y la abrazadera dura, así como sobre el poderoso sistema de alta carga. Y hemos visto cómo Unispan combina esos productos innovadores con un verdadero enfoque en el servicio al cliente. Sí."
+    },
+    {
+      "avg_logprob": -0.05447387869935483,
+      "end": 1052.29,
+      "speaker": "SPEAKER_00",
+      "start": 1044.89,
+      "text": "Ese compromiso con el servicio realmente destaca. Es como si no solo estuvieran vendiendo equipos. Están tratando de construir relaciones duraderas con sus clientes. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05447387869935483,
+      "end": 1062.21,
+      "speaker": "SPEAKER_01",
+      "start": 1052.43,
+      "text": "Ofrecen servicios de consulta y presupuestación. Tienen un departamento de ingeniería de primer nivel. E incluso brindan capacitación en el lugar para asegurarse de que su equipo se utilice de manera segura y efectiva."
+    },
+    {
+      "avg_logprob": -0.04878535475174006,
+      "end": 1068.03,
+      "speaker": "SPEAKER_00",
+      "start": 1062.57,
+      "text": "Es un enfoque holístico que va mucho más allá de simplemente proporcionar los elementos básicos. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.04878535475174006,
+      "end": 1073.55,
+      "speaker": "SPEAKER_01",
+      "start": 1068.27,
+      "text": "Sí. Y eso los diferencia en una industria que a menudo puede sentirse muy transaccional. Está bien."
+    },
+    {
+      "avg_logprob": -0.04878535475174006,
+      "end": 1082.17,
+      "speaker": "SPEAKER_00",
+      "start": 1073.55,
+      "text": "Quiero cambiar un poco de tema y hablar sobre la seguridad. Porque cuando estás tratando con toneladas de concreto y equipo pesado, la seguridad tiene que ser una prioridad absoluta."
+    },
+    {
+      "avg_logprob": -0.04878535475174006,
+      "end": 1089.09,
+      "speaker": "SPEAKER_01",
+      "start": 1082.49,
+      "text": "Oh, absolutamente. Y Unispan parece tomárselo muy en serio. Tienen una industria de inspección rigurosa. Tienen un riguroso programa de mantenimiento de inspección para todo su equipo."
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1092.01,
+      "speaker": "SPEAKER_00",
+      "start": 1089.23,
+      "text": "Así que no solo están enviando cosas y esperando lo mejor. No."
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1100.03,
+      "speaker": "SPEAKER_01",
+      "start": 1092.07,
+      "text": "Cada pieza de encofrado y apuntalamiento se revisa cuidadosamente antes de salir. Y tienen horarios de mantenimiento regulares para asegurarse de que todo se mantenga en perfectas condiciones."
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1100.95,
+      "speaker": "SPEAKER_00",
+      "start": 1100.19,
+      "text": "Eso es reconfortante."
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1109.51,
+      "speaker": "SPEAKER_01",
+      "start": 1101.07,
+      "text": "Así es. Y su compromiso con la seguridad va más allá del equipo en sí. También ofrecen orientación y apoyo para ayudar a los clientes a crear lugares de trabajo más seguros."
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1110.17,
+      "speaker": "SPEAKER_00",
+      "start": 1109.73,
+      "text": "¿Como qué?"
+    },
+    {
+      "avg_logprob": -0.08368929802513808,
+      "end": 1120.89,
+      "speaker": "SPEAKER_01",
+      "start": 1110.37,
+      "text": "Ofrecen programas de capacitación en seguridad para equipos de construcción. Proporcionan recursos sobre las mejores prácticas. Y están realmente enfocados en fomentar una cultura de seguridad a lo largo de todo el proceso de construcción."
+    },
+    {
+      "avg_logprob": -0.09284032381152453,
+      "end": 1125.11,
+      "speaker": "SPEAKER_00",
+      "start": 1121.27,
+      "text": "Es como si no solo estuvieran vendiendo encofrados y apuntalamiento. Están vendiendo tranquilidad. Exactamente."
+    },
+    {
+      "avg_logprob": -0.09284032381152453,
+      "end": 1128.59,
+      "speaker": "SPEAKER_01",
+      "start": 1125.19,
+      "text": "Y eso es una mercancía valiosa en una industria donde los riesgos son inherentes."
+    },
+    {
+      "avg_logprob": -0.09284032381152453,
+      "end": 1141.95,
+      "speaker": "SPEAKER_00",
+      "start": 1128.89,
+      "text": "Hablando de ir más allá, tengo que preguntar sobre esos accesorios que ofrecen. Mencionan específicamente este contrachapado Svezadek 350. Casi parece que es el estándar de oro del contrachapado para encofrados. ¿Qué lo hace tan especial? Claro."
+    },
+    {
+      "avg_logprob": -0.09284032381152453,
+      "end": 1155.35,
+      "speaker": "SPEAKER_01",
+      "start": 1142.15,
+      "text": "Recuerda cómo hablamos sobre la necesidad de que la madera contrachapada para encofrado esté realmente ajustada? Tiene que soportar la presión del concreto húmedo, resistir la humedad y liberarse de manera limpia una vez que el concreto esté fraguado. Bueno, Svezadek 350 está diseñado específicamente para esas condiciones exigentes."
+    },
+    {
+      "avg_logprob": -0.0887419889625321,
+      "end": 1158.25,
+      "speaker": "SPEAKER_00",
+      "start": 1155.73,
+      "text": "¿Así que no es solo contrachapado común y corriente?"
+    },
+    {
+      "avg_logprob": -0.0887419889625321,
+      "end": 1174.37,
+      "speaker": "SPEAKER_01",
+      "start": 1158.63,
+      "text": "Definitivamente no. Es un contrachapado de alto rendimiento diseñado para ofrecer resultados excepcionales en encofrados de concreto. Se destaca por su durabilidad, su suavidad y su capacidad para crear esos hermosos acabados de concreto perfectos que tanto les gustan a arquitectos y constructores."
+    },
+    {
+      "avg_logprob": -0.06865368365016702,
+      "end": 1187.03,
+      "speaker": "SPEAKER_00",
+      "start": 1174.37,
+      "text": "Suena como el Rolls-Royce de la madera contrachapada. Y también ofrecen un montón de otros accesorios. Correas, soportes y un montón de otras cosas que probablemente ni siquiera reconocería. ¿Puedes darnos un resumen rápido de qué se trata todo eso? Claro."
+    },
+    {
+      "avg_logprob": -0.06865368365016702,
+      "end": 1213.91,
+      "speaker": "SPEAKER_01",
+      "start": 1187.41,
+      "text": "Hablamos sobre los atados anteriormente. Son esos pequeños sujetadores esenciales que mantienen juntas las paneles de encofrado, evitando que se abulte o se separen bajo la presión del concreto. Y vienen en diferentes resistencias y diseños, dependiendo de la aplicación específica. Los soportes son como conectores. Proporcionan resistencia adicional. Proporcionan soporte y estabilidad adicionales al unir diferentes partes del sistema de encofrado o apuntalamiento. Vienen en una amplia variedad de formas y tamaños para adaptarse a diferentes configuraciones y cargas."
+    },
+    {
+      "avg_logprob": -0.04341602979498055,
+      "end": 1218.73,
+      "speaker": "SPEAKER_00",
+      "start": 1214.23,
+      "text": "Así que son como las tuercas y tornillos que mantienen todo el sistema de encofrado y apuntalamiento unido. Exactamente."
+    },
+    {
+      "avg_logprob": -0.04341602979498055,
+      "end": 1222.41,
+      "speaker": "SPEAKER_01",
+      "start": 1218.93,
+      "text": "Son esos componentes pequeños pero cruciales que hacen que todo el sistema funcione."
+    },
+    {
+      "avg_logprob": -0.04341602979498055,
+      "end": 1226.67,
+      "speaker": "SPEAKER_00",
+      "start": 1222.65,
+      "text": "Estoy comenzando a darme cuenta de que hay mucho más en los encofrados y apuntalamientos de lo que parece a simple vista."
+    },
+    {
+      "avg_logprob": -0.04341602979498055,
+      "end": 1231.37,
+      "speaker": "SPEAKER_01",
+      "start": 1226.93,
+      "text": "Definitivamente lo hay. Es todo un mundo de equipo especializado y conocimientos de ingeniería."
+    },
+    {
+      "avg_logprob": -0.04478346374560529,
+      "end": 1242.91,
+      "speaker": "SPEAKER_00",
+      "start": 1231.37,
+      "text": "Y el hecho de que Unispan ofrezca una gama tan completa de productos y servicios realmente refuerza su objetivo de ser una tienda integral para todo lo relacionado con encofrados y apuntalamiento. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.04478346374560529,
+      "end": 1249.41,
+      "speaker": "SPEAKER_01",
+      "start": 1243.15,
+      "text": "Quieren ser la fuente de referencia para todo, desde los enormes marcos de acero hasta el más pequeño de los lazos."
+    },
+    {
+      "avg_logprob": -0.04478346374560529,
+      "end": 1250.93,
+      "speaker": "SPEAKER_00",
+      "start": 1249.67,
+      "text": "Ese es un objetivo bastante impresionante."
+    },
+    {
+      "avg_logprob": -0.04478346374560529,
+      "end": 1261.35,
+      "speaker": "SPEAKER_01",
+      "start": 1251.19,
+      "text": "Sí. Y parecen estar bien encaminados para lograrlo. Están innovando constantemente, desarrollando nuevos productos y ampliando su oferta para satisfacer las necesidades en evolución de la industria de la construcción."
+    },
+    {
+      "avg_logprob": -0.06906702833763068,
+      "end": 1269.67,
+      "speaker": "SPEAKER_00",
+      "start": 1261.35,
+      "text": "Noté que algunas de las páginas de productos en su sitio web dicen, coming soon. Eso sugiere que no están frenando en ningún momento pronto. No."
+    },
+    {
+      "avg_logprob": -0.06906702833763068,
+      "end": 1281.05,
+      "speaker": "SPEAKER_01",
+      "start": 1269.71,
+      "text": "Están trabajando activamente en nuevas soluciones y están comprometidos a mantenerse por delante de las tendencias. Es emocionante ver una empresa que no se conforma con el status quo, sino que constantemente está superando los límites de lo que es posible."
+    },
+    {
+      "avg_logprob": -0.06906702833763068,
+      "end": 1285.87,
+      "speaker": "SPEAKER_00",
+      "start": 1281.25,
+      "text": "Es como si no solo estuvieran vendiendo productos, sino que están moldeando el futuro de la construcción. Exactamente."
+    },
+    {
+      "avg_logprob": -0.06906702833763068,
+      "end": 1293.35,
+      "speaker": "SPEAKER_01",
+      "start": 1286.23,
+      "text": "Y eso es algo que vale la pena celebrar. Creo que todos podríamos aprender una o dos cosas de su compromiso con la innovación. Estoy de acuerdo."
+    },
+    {
+      "avg_logprob": -0.06304931960767135,
+      "end": 1299.51,
+      "speaker": "SPEAKER_00",
+      "start": 1293.53,
+      "text": "Es como ver esos documentales detrás de cámaras sobre cómo filmaron una película con todos los efectos especiales y acrobacias locas."
+    },
+    {
+      "avg_logprob": -0.06304931960767135,
+      "end": 1307.23,
+      "speaker": "SPEAKER_01",
+      "start": 1300.09,
+      "text": "Sé a qué te refieres. Te das cuenta de que hay todo un nivel adicional de habilidad y creatividad que entra en esas películas. ¿Verdad?"
+    },
+    {
+      "avg_logprob": -0.06304931960767135,
+      "end": 1311.93,
+      "speaker": "SPEAKER_00",
+      "start": 1307.31,
+      "text": "Y los encofrados y apuntalamientos son como los equipos de efectos especiales del mundo de la construcción. Sí."
+    },
+    {
+      "avg_logprob": -0.06304931960767135,
+      "end": 1316.21,
+      "speaker": "SPEAKER_01",
+      "start": 1312.13,
+      "text": "Están trabajando tras bambalinas para crear estas increíbles estructuras que parecen imposibles."
+    },
+    {
+      "avg_logprob": -0.06304931960767135,
+      "end": 1321.31,
+      "speaker": "SPEAKER_00",
+      "start": 1316.63,
+      "text": "Definitivamente te hace mirar los edificios de concreto y los puentes de una manera completamente nueva. Absolutamente."
+    },
+    {
+      "avg_logprob": -0.032831871312511855,
+      "end": 1326.47,
+      "speaker": "SPEAKER_01",
+      "start": 1321.33,
+      "text": "Cuando entiendes la ingeniería y la planificación que se requiere, es realmente asombroso."
+    },
+    {
+      "avg_logprob": -0.032831871312511855,
+      "end": 1332.93,
+      "speaker": "SPEAKER_00",
+      "start": 1326.71,
+      "text": "Así que para concluir, creo que todos hemos adquirido una nueva apreciación por el arte y la ciencia de los encofrados y soportes. Definitivamente."
+    },
+    {
+      "avg_logprob": -0.032831871312511855,
+      "end": 1338.55,
+      "speaker": "SPEAKER_01",
+      "start": 1333.35,
+      "text": "Es un mundo oculto, pero es crucial para cómo construimos nuestras ciudades e infraestructuras."
+    },
+    {
+      "avg_logprob": -0.032831871312511855,
+      "end": 1349.01,
+      "speaker": "SPEAKER_00",
+      "start": 1338.97,
+      "text": "Y Unispan USA es claramente un líder en este campo. No solo están proporcionando productos, están ofreciendo un enfoque integral de la construcción que se centra en la asociación y la innovación. Sí."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1353.99,
+      "speaker": "SPEAKER_01",
+      "start": 1349.01,
+      "text": "Quedé impresionado por su compromiso con el servicio al cliente y cómo hacen un esfuerzo adicional para apoyar a sus clientes."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1358.55,
+      "speaker": "SPEAKER_00",
+      "start": 1354.17,
+      "text": "Yo también. Su experiencia y enfoque consultivo realmente se destacaron. Cierto."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1363.21,
+      "speaker": "SPEAKER_01",
+      "start": 1358.59,
+      "text": "No solo te están vendiendo cosas. Te están ayudando a encontrar las mejores soluciones para tus necesidades específicas. Exactamente."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1367.29,
+      "speaker": "SPEAKER_00",
+      "start": 1363.57,
+      "text": "Ahora, antes de despedirnos, quiero dejar a nuestros oyentes con un pensamiento final. Está bien."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1367.65,
+      "speaker": "SPEAKER_01",
+      "start": 1367.35,
+      "text": "Dispara."
+    },
+    {
+      "avg_logprob": -0.12015427139740956,
+      "end": 1383.79,
+      "speaker": "SPEAKER_00",
+      "start": 1367.81,
+      "text": "Hemos hablado de todos los aspectos técnicos de los encofrados y puntales, los diferentes sistemas, los materiales, toda esa información. ¿Verdad? Pero la próxima vez que veas una estructura de concreto impresionante, como un edificio, te vas a preguntar: ¿es un puente o un rascacielos? Tómate un momento para pensar en las fuerzas invisibles que lo moldearon."
+    },
+    {
+      "avg_logprob": -0.05951813130660821,
+      "end": 1391.03,
+      "speaker": "SPEAKER_01",
+      "start": 1384.17,
+      "text": "Me gusta eso. A menudo damos por sentadas esas estructuras, pero hay tanta ingeniería e ingenio detrás de ellas."
+    },
+    {
+      "avg_logprob": -0.05951813130660821,
+      "end": 1398.25,
+      "speaker": "SPEAKER_00",
+      "start": 1391.13,
+      "text": "Es cierto. Detrás de cada curva, cada columna, cada pared, hay todo un sistema de encofrado y apuntalamiento que lo hizo posible."
+    },
+    {
+      "avg_logprob": -0.05951813130660821,
+      "end": 1401.07,
+      "speaker": "SPEAKER_01",
+      "start": 1398.43,
+      "text": "Como un esqueleto oculto que sostiene todo junto. Exactamente."
+    },
+    {
+      "avg_logprob": -0.05951813130660821,
+      "end": 1406.63,
+      "speaker": "SPEAKER_00",
+      "start": 1401.45,
+      "text": "Y Unispan USA es una de las empresas que están haciendo que esos esqueletos ocultos sean una realidad."
+    },
+    {
+      "avg_logprob": -0.05951813130660821,
+      "end": 1410.39,
+      "speaker": "SPEAKER_01",
+      "start": 1406.73,
+      "text": "Bien dicho. Ha sido una fascinante inmersión en el mundo de Unispan."
+    },
+    {
+      "avg_logprob": -0.03408003868345095,
+      "end": 1415.45,
+      "speaker": "SPEAKER_00",
+      "start": 1410.55,
+      "text": "Lo ha sido. Aprendí un montón y espero que nuestros oyentes también lo hagan. Gracias por acompañarnos en esta aventura concreta."
+    },
+    {
+      "avg_logprob": -0.03408003868345095,
+      "end": 1418.27,
+      "speaker": "SPEAKER_01",
+      "start": 1415.77,
+      "text": "Con mucho gusto. Siempre es divertido hablar apasionadamente sobre la tecnología de la construcción."
+    },
+    {
+      "avg_logprob": -0.03408003868345095,
+      "end": 1425.55,
+      "speaker": "SPEAKER_00",
+      "start": 1418.53,
+      "text": "Eso es todo sobre nuestra profunda exploración de Unispan USA. Hasta la próxima, sigue explorando, sigue aprendiendo y sigue construyendo."
+    }
+  ]
+}
