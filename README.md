@@ -21,9 +21,6 @@ A simple script that translates podcast audio from English to Spanish, allowing 
 ```bash
 git clone https://github.com/yourusername/podcast-translator.git
 cd podcast-translator
-
-git clone https://github.com/yourusername/podcast-translator.git
-cd podcast-translator
 ```
 2. Install required dependencies:
 
