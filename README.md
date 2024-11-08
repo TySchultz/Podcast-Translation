@@ -90,10 +90,3 @@ This project uses several key components:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/yourusername/podcast-translator/issues) page
-2. Create a new issue if needed
-3. Join our [Discord community](your-discord-link)
