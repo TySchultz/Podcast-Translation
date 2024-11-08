@@ -8,10 +8,10 @@ def load_segments(file_path: str) -> List[Dict]:
         data = json.load(file)
         return data['output']['segments']
 
-def translate_to_spanish(text: str, client: OpenAI) -> str:
+def translate_to_spanish(text: str, client: OpenAI, model: str) -> str:
     print(f"\nTranslating: {text}")
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model=model,
         messages=[
             {"role": "system", "content": "You are a translator. Translate the following text to Spanish."},
             {"role": "user", "content": text}
@@ -21,7 +21,7 @@ def translate_to_spanish(text: str, client: OpenAI) -> str:
     print(f"Translated to: {translated}")
     return translated
 
-def main():
+def main(model: str = 'gpt-4o-mini'):
     print("Starting translation process...")
     
     # Initialize OpenAI client
@@ -37,7 +37,7 @@ def main():
     for i, segment in enumerate(segments, 1):
         print(f"\nTranslating segment {i}/{len(segments)}")
         original_text = segment['text']
-        spanish_text = translate_to_spanish(original_text, client)
+        spanish_text = translate_to_spanish(original_text, client, model)
         segment['text'] = spanish_text
     
     # Save the translated segments

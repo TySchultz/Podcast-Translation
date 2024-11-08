@@ -11,7 +11,6 @@ A simple script that translates podcast audio from English to Spanish, allowing 
 ## Prerequisites
 
 - Python 3.7 or higher
-- FFmpeg installed on your system
 - Internet connection for API access
 
 ## Installation
@@ -20,45 +19,75 @@ A simple script that translates podcast audio from English to Spanish, allowing 
 
 ```bash
 git clone https://github.com/yourusername/podcast-translator.git
-cd podcast-translator
 ```
+
 2. Install required dependencies:
 
 ```bash
-pip install -r requirements.txt
+# Core dependencies
+pip install openai
+pip install requests
+pip install python-dotenv
+pip install replicate
+pip install soundfile
+pip install numpy
+
+# Optional but recommended
+pip install tqdm  # For progress bars
 ```
+
+3. Set up your API keys:
+
+```bash
+# For Linux/Mac
+export OPENAI_API_KEY='your-openai-key-here'
+export REPLICATE_API_TOKEN='your-replicate-token-here'
+
+# For Windows (Command Prompt)
+set OPENAI_API_KEY=your-openai-key-here
+set REPLICATE_API_TOKEN=your-replicate-token-here
+```
+
+
 ## Usage
 
-1. Place your English podcast audio file in the `input` folder
-2. Run the translation script:
+1. Place your English podcast audio file in the folder
+2. Run the translation script using one of these commands:
 
-```bash 
-python translate_podcast.py --input "your-podcast.mp3"
+```bash
+# Basic usage
+python TranslatePodcastToSpanish.py your_podcast.mp3
+
+# Advanced usage with options
+python TranslatePodcastToSpanish.py your_podcast.mp3 --model gpt-4o --speaker0 fable --speaker1 shimmer --workers 4
+
+# View all available options
+python TranslatePodcastToSpanish.py --help
 ```
 
+Available options:
+- `--model, -m`: Translation model to use (gpt-4o-mini or gpt-4o)
+- `--speaker0`: Voice for first speaker (alloy, echo, fable, onyx, nova, shimmer)
+- `--speaker1`: Voice for second speaker (alloy, echo, fable, onyx, nova, shimmer)
+- `--workers, -w`: Number of concurrent workers for audio processing (default: 3)
 
-3. Find the translated Spanish version in the `output` folder
 
+## Components
 
+This project uses several key components:
 
-## Configuration
+- **Whisper Diarization** ([thomasmol/whisper-diarization](https://replicate.com/thomasmol/whisper-diarization)): Handles the initial audio transcription with speaker detection
+  - Uses Whisper large-v3 model
+  - Provides speaker diarization
+  - Includes word & sentence level timestamps
+  - Supports prompting and hotwords
 
-Adjust translation settings in `config.yml`:
-- Speech recognition sensitivity
-- Translation quality
-- Output audio format
-- Voice selection for Spanish synthesis
-
+- **OpenAI GPT-4o-mini**: Handles Spanish translation
+- **OpenAI TTS**: Converts translated text back to speech
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- OpenAI for translation services
-- FFmpeg for audio processing
-- All contributors and testers
 
 ## Support
 
