@@ -6,6 +6,18 @@ from convertToSpanish import main as translate_to_spanish
 from convertSegmentsToAudio import create_audio_from_segments
 import os.path
 
+SUPPORTED_LANGUAGES = [
+    'Afrikaans', 'Arabic', 'Armenian', 'Azerbaijani', 'Belarusian', 'Bosnian',
+    'Bulgarian', 'Catalan', 'Chinese', 'Croatian', 'Czech', 'Danish', 'Dutch',
+    'English', 'Estonian', 'Finnish', 'French', 'Galician', 'German', 'Greek',
+    'Hebrew', 'Hindi', 'Hungarian', 'Icelandic', 'Indonesian', 'Italian',
+    'Japanese', 'Kannada', 'Kazakh', 'Korean', 'Latvian', 'Lithuanian',
+    'Macedonian', 'Malay', 'Marathi', 'Maori', 'Nepali', 'Norwegian', 'Persian',
+    'Polish', 'Portuguese', 'Romanian', 'Russian', 'Serbian', 'Slovak',
+    'Slovenian', 'Spanish', 'Swahili', 'Swedish', 'Tagalog', 'Tamil', 'Thai',
+    'Turkish', 'Ukrainian', 'Urdu', 'Vietnamese', 'Welsh'
+]
+
 def check_environment_variables():
     """Check if required API keys are set"""
     required_vars = ['REPLICATE_API_TOKEN', 'OPENAI_API_KEY']
@@ -19,8 +31,12 @@ def check_environment_variables():
 
 def parse_arguments():
     """Parse command line arguments"""
-    parser = argparse.ArgumentParser(description='Translate podcast from English to Spanish')
+    parser = argparse.ArgumentParser(description='Translate podcast from one language to another')
     parser.add_argument('input_file', help='Input audio file path (required)')
+    parser.add_argument('--language', '-l', 
+                      default='Spanish',
+                      choices=SUPPORTED_LANGUAGES,
+                      help='Target language for translation')
     parser.add_argument('--model', '-m', default='gpt-4o-mini', 
                       choices=['gpt-4o-mini', 'gpt-4o'],
                       help='OpenAI model to use for translation')
@@ -66,8 +82,8 @@ def main():
         print("✓ Successfully created segments")
         
         # Step 2: Translate segments to Spanish
-        print("\n🔄 Step 2: Translating segments to Spanish...")
-        translate_to_spanish(model=model)
+        print(f"\n🔄 Step 2: Translating segments to {args.language}...")
+        translate_to_spanish(model=model, target_language=args.language)
         print("✓ Successfully translated segments")
         
         # Step 3: Convert translated text to audio
