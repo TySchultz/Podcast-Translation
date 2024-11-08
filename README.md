@@ -1,5 +1,7 @@
 # Podcast English-Spanish Translator
 
+I created this to help translate a Notebookllm podcast to spanish. Its a rough implementation and wont get all of the inflection/nuances of NotebookLLM. 
+
 A simple script that translates podcast audio from English to Spanish, allowing bilingual learning and comparison.
 
 ## Features
